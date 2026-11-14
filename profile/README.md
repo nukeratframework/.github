@@ -1,6 +1,6 @@
 <div align="center">
 
-![NukeRat](banner.png)
+![NukeRat](banner2.png)
 
 Post exploitation framework for advanced red team operations.
 
